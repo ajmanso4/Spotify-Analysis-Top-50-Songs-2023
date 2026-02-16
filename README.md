@@ -45,6 +45,10 @@ Some basic statistics of the dataset:
 <br><br>
 
 #### 2. Which artists have the highest streams per song? One-hit-wonder metric!
+<img width="1090" height="596" alt="Screenshot 2026-02-16 at 22 16 36" src="https://github.com/user-attachments/assets/586e2e73-4611-475b-bea1-649a3c9b8106" />
+
+^^ As we can see, this is a pretty good metric for one hit wonders as we see Lewis Capaldi, Tones And I, The Kid Laroi, and Glass Animals on the top of this list. The majority of people on Earth would be able to recognize those songs but the chance th average person could name another song by them is low. These are prime examples of "One hit wonder" artists.
+
 
 
 
