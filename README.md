@@ -6,7 +6,7 @@ Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotl
 (paste quicklinkes here]
 
 
-## Dataset and Source
+## Dataset and Source:
 Dataset: Spotify Most Streamed Songs
 Source: https://www.kaggle.com/datasets/meeratif/spotify-most-streamed-songs-of-all-time
       *Data obtained from Kaggle (from link above).
@@ -18,6 +18,13 @@ Source: https://www.kaggle.com/datasets/meeratif/spotify-most-streamed-songs-of-
 2. Within the top 50, do artists with more entries account for more listening volume?
 3. Which artists have the highest streams per song? One-hit-wonder metric!
 
-## Presentation
+## Presentation:
 <img width="1073" height="786" alt="Screenshot 2026-02-16 at 17 15 10" src="https://github.com/user-attachments/assets/8ccaf74e-8576-4b88-afcd-cad0d76f8d3c" />
+As we can see here, Ed Sheeran is the artist with the most songs in the top 50 of Spotify 2023, with 4 songs. In second place lies Post Malone and The Weeknd, with 3 songs each. 
+
+We can see the top 25 and the top 10 as we zoom in closer:
+<img width="868" height="797" alt="Screenshot 2026-02-16 at 17 19 29" src="https://github.com/user-attachments/assets/7aab0f37-00fb-4ed7-ae7c-e6487828f848" />
+<img width="859" height="472" alt="Screenshot 2026-02-16 at 17 19 42" src="https://github.com/user-attachments/assets/46b4b48c-b17d-4687-a7f4-4314cde192ab" />
+
+
 
