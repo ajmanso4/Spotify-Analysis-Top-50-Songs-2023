@@ -1,10 +1,17 @@
 # Exploratory Data Analysis: Spotify Most Streamed Songs of 2023
-Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotlib) through Jupyter notebook.
+Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotlib) via Jupyter notebook.
 
 
 ## Table of Contents:
-* [Dataset and Source](Dataset-and-Source)
-* 
+* Dataset and Source
+* Research Questions
+* Presentation
+  1. Of the top 50 songs streamed in 2023 on spotify, how many songs does each artist have and what percentage of the top 50 do they make up?
+       * Top 25 and Top 10
+       * Basic Statistics of the Dataset
+  3. Which artists have the highest streams per song? One-Hit-Wonder metric!
+  4. Within the top 50, do artists with more entries account for more listening volume?
+   
 
 
 ## Dataset and Source:
