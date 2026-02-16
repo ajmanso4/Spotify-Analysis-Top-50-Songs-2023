@@ -33,6 +33,7 @@ We can see the top 25 and the top 10 as we zoom in closer:
 Some basic statistics of the dataset:
 
 <img width="508" height="635" alt="Screenshot 2026-02-16 at 21 50 23" src="https://github.com/user-attachments/assets/990824b6-d480-4dd6-8df3-c76956d5e4d9" />
+
 ^^ As we can see here, the songs "Shape of You" by Ed Sheeran and B"linding Lights" by The Weeknd are clear outliers when it comes to total streams.
 
 Mean: 2,357,434,145
